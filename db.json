@@ -1,9 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name":"shiv",
-      "interner":"masai"
-    }
+  "data": [
+   
   ]
 }
